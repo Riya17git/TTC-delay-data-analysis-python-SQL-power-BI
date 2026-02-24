@@ -33,5 +33,5 @@ The final output is a multi-page Power BI dashboard designed for executive-level
 4️⃣ Interactive Dashboard Development (Power BI)
 
 ## Workflow Overview
-![Overview Dashboard](images/sample image.jpg)
+![Overview Dashboard](images/sample image .jpg)
 
