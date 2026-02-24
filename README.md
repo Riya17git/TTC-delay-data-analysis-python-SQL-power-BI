@@ -4,7 +4,7 @@ This project presents a complete, end-to-end Business Intelligence workflow focu
 
 The objective is to transform raw operational incident data into actionable business intelligence using structured analytics, data modeling, DAX calculations, and interactive dashboard storytelling.
 
-🎯 Who This Project Is For
+## 🎯 Who This Project Is For
 
 📊 Data Analyst aspirants building a strong BI portfolio
 
@@ -14,7 +14,7 @@ The objective is to transform raw operational incident data into actionable busi
 
 🏢 Recruiters evaluating real-world dashboard capability
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project simulates a real-world transit operations analytics scenario.
 
@@ -45,7 +45,7 @@ The final output is a multi-page Power BI dashboard designed for executive-level
 ## Workflow Overview
 ![Overview Dashboard](images/overview.jpg)
 
-📈 Key Insights
+## 📈 Key Insights
 
 Yonge-University line contributes the largest share of delay minutes.
 
@@ -57,13 +57,13 @@ Certain stations consistently report elevated delay volumes.
 
 Strong correlation observed between service gap and delay severity.
 
-📊 Dashboard Preview
+## 📊 Dashboard Preview
 
 ![Overview Dashboard](images/overview_page.jpg)
 
 ![Overview Dashboard](images/analysis_page.jpg)
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Power BI (Data Modeling & Dashboarding)
 
@@ -75,6 +75,6 @@ ESRI Map Visual
 
 Pareto & Root Cause Analysis Techniques(Seaborn, Matplotlib)
 
-📜 License
+## 📜 License
 
 MIT — Feel free to fork, star, and use in your portfolio.
