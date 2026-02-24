@@ -32,3 +32,6 @@ The final output is a multi-page Power BI dashboard designed for executive-level
 3️⃣ Root Cause & Pareto Analysis
 4️⃣ Interactive Dashboard Development (Power BI)
 
+## Workflow Overview
+![Overview Dashboard](images/sample image.jpg)
+
