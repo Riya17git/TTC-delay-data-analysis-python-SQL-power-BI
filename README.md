@@ -18,13 +18,17 @@ This project simulates a real-world transit operations analytics scenario.
 The analysis focuses on:
 
 Identifying high-impact delay drivers
-
 Evaluating severity distribution across subway lines
-
 Performing Pareto-based root cause analysis
-
 Analyzing station-level delay concentration
-
 Assessing operational gap impact on service reliability
 
 The final output is a multi-page Power BI dashboard designed for executive-level decision support.
+
+🔄 End-to-End Workflow
+
+1️⃣ Data Preparation & Cleaning
+2️⃣ Data Modeling & DAX
+3️⃣ Root Cause & Pareto Analysis
+4️⃣ Interactive Dashboard Development (Power BI)
+
