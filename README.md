@@ -35,3 +35,11 @@ The final output is a multi-page Power BI dashboard designed for executive-level
 ## Workflow Overview
 ![Overview Dashboard](images/overview.jpg)
 
+📈 Key Insights
+
+Yonge-University line contributes the largest share of delay minutes.
+Minor delays (1–5 min) dominate incident frequency.
+A limited number of delay descriptions account for majority of total delay impact.
+Certain stations consistently report elevated delay volumes.
+Strong correlation observed between service gap and delay severity.
+
