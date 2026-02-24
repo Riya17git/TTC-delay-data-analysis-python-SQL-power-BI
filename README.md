@@ -57,6 +57,12 @@ Certain stations consistently report elevated delay volumes.
 
 Strong correlation observed between service gap and delay severity.
 
+📊 Dashboard Preview
+
+![Overview Dashboard](images/overview_page.jpg)
+
+![Overview Dashboard](images/analysis_page.jpg)
+
 🛠️ Tools & Technologies
 
 Power BI (Data Modeling & Dashboarding)
